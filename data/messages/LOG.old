@@ -1,0 +1,24 @@
+2023/08/31-20:55:06.242729 ffff917fa160 Recovering log #12
+2023/08/31-20:55:06.243445 ffff917fa160 Level-0 table #14: started
+2023/08/31-20:55:06.247348 ffff917fa160 Level-0 table #14: 502 bytes OK
+2023/08/31-20:55:06.253910 ffff917fa160 Delete type=3 #11
+2023/08/31-20:55:06.253931 ffff917fa160 Delete type=0 #12
+2023/09/01-06:17:21.653508 ffff8fd7c160 Level-0 table #17: started
+2023/09/01-06:17:21.656371 ffff8fd7c160 Level-0 table #17: 20095 bytes OK
+2023/09/01-06:17:21.658274 ffff8fd7c160 Delete type=0 #15
+2023/09/01-06:17:21.660750 ffff8fd7c160 Manual compaction at level-0 from '!messages!1UDFOWFBjN4Ryiz1' @ 72057594037927935 : 1 .. '!messages!zeiD1gpDwBBHEFKH' @ 0 : 0; will stop at '!messages!vtV8127XEycqeJJU' @ 60 : 1
+2023/09/01-06:17:21.660760 ffff8fd7c160 Compacting 2@0 + 0@1 files
+2023/09/01-06:17:21.663476 ffff8fd7c160 Generated table #18@0: 79 keys, 13561 bytes
+2023/09/01-06:17:21.663488 ffff8fd7c160 Compacted 2@0 + 0@1 files => 13561 bytes
+2023/09/01-06:17:21.665301 ffff8fd7c160 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/09/01-06:17:21.665350 ffff8fd7c160 Delete type=2 #14
+2023/09/01-06:17:21.665388 ffff8fd7c160 Delete type=2 #17
+2023/09/01-06:17:21.675851 ffff8fd7c160 Manual compaction at level-0 from '!messages!vtV8127XEycqeJJU' @ 60 : 1 .. '!messages!zeiD1gpDwBBHEFKH' @ 0 : 0; will stop at (end)
+2023/09/01-06:17:21.678128 ffff8fd7c160 Manual compaction at level-1 from '!messages!1UDFOWFBjN4Ryiz1' @ 72057594037927935 : 1 .. '!messages!zeiD1gpDwBBHEFKH' @ 0 : 0; will stop at '!messages!zeiD1gpDwBBHEFKH' @ 66 : 1
+2023/09/01-06:17:21.678135 ffff8fd7c160 Compacting 1@1 + 1@2 files
+2023/09/01-06:17:21.680759 ffff8fd7c160 Generated table #19@1: 119 keys, 26662 bytes
+2023/09/01-06:17:21.680769 ffff8fd7c160 Compacted 1@1 + 1@2 files => 26662 bytes
+2023/09/01-06:17:21.682387 ffff8fd7c160 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/09/01-06:17:21.682432 ffff8fd7c160 Delete type=2 #18
+2023/09/01-06:17:21.682473 ffff8fd7c160 Delete type=2 #10
+2023/09/01-06:17:21.690637 ffff8fd7c160 Manual compaction at level-1 from '!messages!zeiD1gpDwBBHEFKH' @ 66 : 1 .. '!messages!zeiD1gpDwBBHEFKH' @ 0 : 0; will stop at (end)

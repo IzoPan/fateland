@@ -1,0 +1,24 @@
+2023/09/01-06:23:46.672478 ffff907f8160 Recovering log #17
+2023/09/01-06:23:46.678804 ffff907f8160 Delete type=0 #17
+2023/09/01-06:23:46.678826 ffff907f8160 Delete type=3 #13
+2023/09/01-08:48:49.658439 ffff8fd7c160 Level-0 table #23: started
+2023/09/01-08:48:49.688357 ffff8fd7c160 Level-0 table #23: 2126628 bytes OK
+2023/09/01-08:48:49.690404 ffff8fd7c160 Delete type=0 #21
+2023/09/01-09:00:02.146013 ffff8fd7c160 Compacting 1@1 + 1@2 files
+2023/09/01-09:00:02.159738 ffff8fd7c160 Generated table #24@1: 276 keys, 342560 bytes
+2023/09/01-09:00:02.159752 ffff8fd7c160 Compacted 1@1 + 1@2 files => 342560 bytes
+2023/09/01-09:00:02.162232 ffff8fd7c160 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/09/01-09:00:02.162364 ffff8fd7c160 Delete type=2 #23
+2023/09/01-09:00:02.162672 ffff8fd7c160 Delete type=2 #19
+2023/09/01-10:20:18.703670 ffff8fd7c160 Level-0 table #26: started
+2023/09/01-10:20:18.732577 ffff8fd7c160 Level-0 table #26: 2410012 bytes OK
+2023/09/01-10:20:18.735433 ffff8fd7c160 Delete type=0 #22
+2023/09/01-10:20:18.745744 ffff8fd7c160 Manual compaction at level-0 from '!actors!7e7BPInWcInMjeu5' @ 72057594037927935 : 1 .. '!actors.items.effects!aP31TuRTwmCEwFk0.KAKHrrKkloaGBPUO.VakpVjrtCAOGdXx2' @ 0 : 0; will stop at (end)
+2023/09/01-10:20:18.746007 ffff8fd7c160 Manual compaction at level-1 from '!actors!7e7BPInWcInMjeu5' @ 72057594037927935 : 1 .. '!actors.items.effects!aP31TuRTwmCEwFk0.KAKHrrKkloaGBPUO.VakpVjrtCAOGdXx2' @ 0 : 0; will stop at '!actors.items.effects!BcxW3WBKxWhzSdpb.ZSnZZh5uXeT46GKl.6pbotGIvqQkraPva' @ 2721 : 1
+2023/09/01-10:20:18.746015 ffff8fd7c160 Compacting 1@1 + 1@2 files
+2023/09/01-10:20:18.753133 ffff8fd7c160 Generated table #27@1: 132 keys, 161198 bytes
+2023/09/01-10:20:18.753143 ffff8fd7c160 Compacted 1@1 + 1@2 files => 161198 bytes
+2023/09/01-10:20:18.754698 ffff8fd7c160 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/09/01-10:20:18.754792 ffff8fd7c160 Delete type=2 #24
+2023/09/01-10:20:18.754956 ffff8fd7c160 Delete type=2 #26
+2023/09/01-10:20:18.763347 ffff8fd7c160 Manual compaction at level-1 from '!actors.items.effects!BcxW3WBKxWhzSdpb.ZSnZZh5uXeT46GKl.6pbotGIvqQkraPva' @ 2721 : 1 .. '!actors.items.effects!aP31TuRTwmCEwFk0.KAKHrrKkloaGBPUO.VakpVjrtCAOGdXx2' @ 0 : 0; will stop at (end)

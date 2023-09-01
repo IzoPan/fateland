@@ -1,0 +1,24 @@
+2023/08/31-20:55:06.195388 ffff917fa160 Recovering log #12
+2023/08/31-20:55:06.198879 ffff917fa160 Level-0 table #14: started
+2023/08/31-20:55:06.205948 ffff917fa160 Level-0 table #14: 250707 bytes OK
+2023/08/31-20:55:06.211586 ffff917fa160 Delete type=3 #11
+2023/08/31-20:55:06.211610 ffff917fa160 Delete type=0 #12
+2023/08/31-20:55:24.256432 ffff8fd7c160 Moved #14 to level-1 250707 bytes OK: files[ 0 1 1 0 0 0 0 ]
+2023/08/31-20:55:24.851950 ffff8fd7c160 Compacting 1@1 + 1@2 files
+2023/08/31-20:55:24.857348 ffff8fd7c160 Generated table #16@1: 134 keys, 170601 bytes
+2023/08/31-20:55:24.857361 ffff8fd7c160 Compacted 1@1 + 1@2 files => 170601 bytes
+2023/08/31-20:55:24.859532 ffff8fd7c160 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/08/31-20:55:24.859630 ffff8fd7c160 Delete type=2 #14
+2023/08/31-20:55:24.859733 ffff8fd7c160 Delete type=2 #10
+2023/09/01-06:17:21.633558 ffff8fd7c160 Level-0 table #18: started
+2023/09/01-06:17:21.648997 ffff8fd7c160 Level-0 table #18: 1269590 bytes OK
+2023/09/01-06:17:21.650796 ffff8fd7c160 Delete type=0 #15
+2023/09/01-06:17:21.660610 ffff8fd7c160 Manual compaction at level-0 from '!actors!7e7BPInWcInMjeu5' @ 72057594037927935 : 1 .. '!actors.items.effects!N48RUYVFrwLSAPnt.jhlbSWOipZjF0tLs.6pbotGIvqQkraPva' @ 0 : 0; will stop at (end)
+2023/09/01-06:17:21.665530 ffff8fd7c160 Manual compaction at level-1 from '!actors!7e7BPInWcInMjeu5' @ 72057594037927935 : 1 .. '!actors.items.effects!N48RUYVFrwLSAPnt.jhlbSWOipZjF0tLs.6pbotGIvqQkraPva' @ 0 : 0; will stop at '!actors.items.effects!tp5h8EtZVhO1cztY.pHauFuaHEgC4KPXD.R5ro4AuNjcdWD56O' @ 1018 : 0
+2023/09/01-06:17:21.665540 ffff8fd7c160 Compacting 1@1 + 1@2 files
+2023/09/01-06:17:21.671597 ffff8fd7c160 Generated table #19@1: 118 keys, 146229 bytes
+2023/09/01-06:17:21.671607 ffff8fd7c160 Compacted 1@1 + 1@2 files => 146229 bytes
+2023/09/01-06:17:21.673417 ffff8fd7c160 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/09/01-06:17:21.673614 ffff8fd7c160 Delete type=2 #18
+2023/09/01-06:17:21.673829 ffff8fd7c160 Delete type=2 #16
+2023/09/01-06:17:21.677802 ffff8fd7c160 Manual compaction at level-1 from '!actors.items.effects!tp5h8EtZVhO1cztY.pHauFuaHEgC4KPXD.R5ro4AuNjcdWD56O' @ 1018 : 0 .. '!actors.items.effects!N48RUYVFrwLSAPnt.jhlbSWOipZjF0tLs.6pbotGIvqQkraPva' @ 0 : 0; will stop at (end)
