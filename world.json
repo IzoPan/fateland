@@ -2,14 +2,30 @@
   "title": "FATELAND",
   "id": "fateland",
   "system": "dnd5e",
-  "coreVersion": "11.308",
+  "coreVersion": "11.315",
   "compatibility": {
     "minimum": "11",
-    "verified": "11.308"
+    "verified": "11.315"
   },
-  "systemVersion": "2.3.1",
+  "systemVersion": "2.4.1",
   "background": "https://i.ibb.co/8gmB6w0/18445490dba9d08470b6c4f2159a78b1.jpg",
-  "lastPlayed": "Fri Sep 01 2023 10:20:18 GMT+0000 (Coordinated Universal Time)",
-  "playtime": 128148,
-  "safeMode": false
+  "lastPlayed": "Tue Dec 12 2023 20:44:15 GMT+0000 (Coordinated Universal Time)",
+  "playtime": 2377568,
+  "safeMode": false,
+  "packs": [
+    {
+      "type": "RollTable",
+      "label": "DDB Tables",
+      "name": "ddb-fateland-ddb-tables",
+      "path": "packs/ddb-fateland-ddb-tables",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    }
+  ],
+  "description": "<p>Fateland Universo de Fantasía creado por JaviviProdutions.</p><p>Ambientación de la campaña 988 D.M .</p><div><div style=\"line-height:1.4;direction:ltr;text-align:left;margin-left:0px;text-indent:0px\"><div><div style=\"line-height:1.4;direction:ltr;text-align:left;margin-left:0px;text-indent:0px\"><p><span style=\"font-size:18.6667px;font-weight:400;font-style:normal;color:rgb(0, 0, 0);letter-spacing:0em\">sesión#3</span></p></div><div style=\"line-height:1.4;direction:ltr;text-align:left;margin-left:0px;text-indent:0px\"><p><span style=\"font-size:18.6667px;font-weight:400;font-style:normal;color:rgb(0, 0, 0);letter-spacing:0em\">Los aventureros Llegaron a Shamain donde disfrutaron de la fiesta de Shamai que pone fin al año en la cultura Brigmoreana, pero entre la celebración y los gritos de Jolgorio, hubo un grito de horror. Un ¡asesinato! , el grupo avanzo para hacia el lugar del crimen, para averiguar que paso y quien era el asesino, rastrearon un rastro de ectoplasma hasta el cementerio.No hallaron nada, pero la campanilla al lado de la tumba resonó. Buscaron información en la druida del pueblo que les aviso de un espíritu vengativo Vorgart el silente.</span></p></div><div style=\"line-height:1.4;direction:ltr;text-align:left;margin-left:0px;text-indent:0px\"><p><span style=\"font-size:18.6667px;font-weight:400;font-style:normal;color:rgb(0, 0, 0);letter-spacing:0em\">Los aventureros fueron donde antaño fue su morada y conocieron su historia, ademas de hacer el ritual para invocarlo y poder enfrentarlo .</span></p></div><div style=\"line-height:1.4;direction:ltr;text-align:left;margin-left:0px;text-indent:0px\"><p><span style=\"font-size:18.6667px;font-weight:400;font-style:normal;color:rgb(0, 0, 0);letter-spacing:0em\">se dirigieron hacia la montaña del silencio, donde los druidas hacen sus rituales y se toparon con el espíritu. Lucharon ferozmente hasta derrotar el ente. pero el ente se transformo en algo mas que un espectro , Se transformo en un espíritu de venganza, Ahora se le conocerá como “Vorgart El alma en llamas”.</span></p></div><div style=\"line-height:1.4;direction:ltr;text-align:left;margin-left:0px;text-indent:0px\"><p><span style=\"font-size:18.6667px;font-weight:400;font-style:normal;color:rgb(0, 0, 0);letter-spacing:0em\">los aventureros celebraron lo que quedaba de fiesta y listos para prepararse para el día siguiente...</span></p></div></div></div></div><p></p><p></p><p></p>",
+  "joinTheme": "default"
 }
