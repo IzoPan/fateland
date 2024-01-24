@@ -1,8 +1,15 @@
-2023/12/09-15:02:37.726362 7fc0b0ff9640 Recovering log #206
-2023/12/09-15:02:37.731861 7fc0b0ff9640 Delete type=0 #206
-2023/12/09-15:02:37.731877 7fc0b0ff9640 Delete type=3 #204
-2023/12/09-15:23:36.845309 7fc0ad894640 Level-0 table #212: started
-2023/12/09-15:23:36.845319 7fc0ad894640 Level-0 table #212: 0 bytes OK
-2023/12/09-15:23:36.846736 7fc0ad894640 Delete type=0 #210
-2023/12/09-15:23:36.848266 7fc0ad894640 Manual compaction at level-0 from '!messages!04H5yX5c9dAsgxqD' @ 72057594037927935 : 1 .. '!messages!zzjJJsPrn0Z51zJD' @ 0 : 0; will stop at (end)
-2023/12/09-15:23:36.874929 7fc0ad894640 Manual compaction at level-1 from '!messages!04H5yX5c9dAsgxqD' @ 72057594037927935 : 1 .. '!messages!zzjJJsPrn0Z51zJD' @ 0 : 0; will stop at (end)
+2024/01/24-08:59:01.438718 7fa082ffd640 Recovering log #347
+2024/01/24-08:59:01.444754 7fa082ffd640 Delete type=3 #345
+2024/01/24-08:59:01.444775 7fa082ffd640 Delete type=0 #347
+2024/01/24-09:16:51.258163 7f9de30d6640 Level-0 table #353: started
+2024/01/24-09:16:51.260305 7f9de30d6640 Level-0 table #353: 612 bytes OK
+2024/01/24-09:16:51.261791 7f9de30d6640 Delete type=0 #351
+2024/01/24-09:16:51.261851 7f9de30d6640 Manual compaction at level-0 from '!messages!04H5yX5c9dAsgxqD' @ 72057594037927935 : 1 .. '!messages!zzjJJsPrn0Z51zJD' @ 0 : 0; will stop at (end)
+2024/01/24-09:16:51.264333 7f9de30d6640 Manual compaction at level-1 from '!messages!04H5yX5c9dAsgxqD' @ 72057594037927935 : 1 .. '!messages!zzjJJsPrn0Z51zJD' @ 0 : 0; will stop at '!messages!1qzaAguWQbRmlIMa' @ 5593 : 1
+2024/01/24-09:16:51.264337 7f9de30d6640 Compacting 1@1 + 1@2 files
+2024/01/24-09:16:51.311227 7f9de30d6640 Generated table #354@1: 3123 keys, 1865899 bytes
+2024/01/24-09:16:51.311236 7f9de30d6640 Compacted 1@1 + 1@2 files => 1865899 bytes
+2024/01/24-09:16:51.312636 7f9de30d6640 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/01/24-09:16:51.312729 7f9de30d6640 Delete type=2 #349
+2024/01/24-09:16:51.313209 7f9de30d6640 Delete type=2 #353
+2024/01/24-09:16:51.317991 7f9de30d6640 Manual compaction at level-1 from '!messages!1qzaAguWQbRmlIMa' @ 5593 : 1 .. '!messages!zzjJJsPrn0Z51zJD' @ 0 : 0; will stop at (end)

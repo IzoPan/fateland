@@ -1,8 +1,15 @@
-2023/12/09-15:02:37.785381 7fc0b1ffb640 Recovering log #177
-2023/12/09-15:02:37.790127 7fc0b1ffb640 Delete type=3 #175
-2023/12/09-15:02:37.790148 7fc0b1ffb640 Delete type=0 #177
-2023/12/09-15:23:36.884384 7fc0ad894640 Level-0 table #182: started
-2023/12/09-15:23:36.884394 7fc0ad894640 Level-0 table #182: 0 bytes OK
-2023/12/09-15:23:36.886179 7fc0ad894640 Delete type=0 #180
-2023/12/09-15:23:36.887857 7fc0ad894640 Manual compaction at level-0 from '!playlists!4qK5wV4JWr82gmjh' @ 72057594037927935 : 1 .. '!playlists.sounds!c9tmTQd8jrFo9BCB.qWFXKHfZ6s1sAFzQ' @ 0 : 0; will stop at (end)
-2023/12/09-15:23:36.890117 7fc0ad894640 Manual compaction at level-1 from '!playlists!4qK5wV4JWr82gmjh' @ 72057594037927935 : 1 .. '!playlists.sounds!c9tmTQd8jrFo9BCB.qWFXKHfZ6s1sAFzQ' @ 0 : 0; will stop at (end)
+2024/01/24-08:59:01.572535 7fa082ffd640 Recovering log #311
+2024/01/24-08:59:01.577690 7fa082ffd640 Delete type=0 #311
+2024/01/24-08:59:01.577706 7fa082ffd640 Delete type=3 #309
+2024/01/24-09:16:51.324074 7f9de30d6640 Level-0 table #317: started
+2024/01/24-09:16:51.325936 7f9de30d6640 Level-0 table #317: 1321 bytes OK
+2024/01/24-09:16:51.327372 7f9de30d6640 Delete type=0 #315
+2024/01/24-09:16:51.327438 7f9de30d6640 Manual compaction at level-0 from '!playlists!0WRY32wGx6lk0CYu' @ 72057594037927935 : 1 .. '!playlists.sounds!zhDgNxtV1fx5UCrf.ATTyiUR3TuD6Ng9Y' @ 0 : 0; will stop at (end)
+2024/01/24-09:16:51.327538 7f9de30d6640 Manual compaction at level-1 from '!playlists!0WRY32wGx6lk0CYu' @ 72057594037927935 : 1 .. '!playlists.sounds!zhDgNxtV1fx5UCrf.ATTyiUR3TuD6Ng9Y' @ 0 : 0; will stop at '!playlists.sounds!lrosMR0AjJFDgnRN.qhp38xB8SKkaQfaQ' @ 1457 : 1
+2024/01/24-09:16:51.327543 7f9de30d6640 Compacting 1@1 + 1@2 files
+2024/01/24-09:16:51.329905 7f9de30d6640 Generated table #318@1: 25 keys, 4938 bytes
+2024/01/24-09:16:51.329913 7f9de30d6640 Compacted 1@1 + 1@2 files => 4938 bytes
+2024/01/24-09:16:51.331407 7f9de30d6640 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/01/24-09:16:51.331437 7f9de30d6640 Delete type=2 #317
+2024/01/24-09:16:51.331465 7f9de30d6640 Delete type=2 #313
+2024/01/24-09:16:51.338552 7f9de30d6640 Manual compaction at level-1 from '!playlists.sounds!lrosMR0AjJFDgnRN.qhp38xB8SKkaQfaQ' @ 1457 : 1 .. '!playlists.sounds!zhDgNxtV1fx5UCrf.ATTyiUR3TuD6Ng9Y' @ 0 : 0; will stop at (end)
