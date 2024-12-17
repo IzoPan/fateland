@@ -1,0 +1,7 @@
+2024/12/17-19:54:14.200 3fec Recovering log #182
+2024/12/17-19:54:14.206 3fec Delete type=0 #182
+2024/12/17-19:54:14.206 3fec Delete type=3 #180
+2024/12/17-19:54:54.977 20ac Level-0 table #187: started
+2024/12/17-19:54:54.977 20ac Level-0 table #187: 0 bytes OK
+2024/12/17-19:54:54.980 20ac Delete type=0 #185
+2024/12/17-19:54:55.028 20ac Manual compaction at level-0 from 'undefined' @ 72057594037927935 : 1 .. 'undefined' @ 0 : 0; will stop at (end)

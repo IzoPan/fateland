@@ -1,0 +1,25 @@
+2024/12/15-10:16:24.633892 723486a00640 Recovering log #974
+2024/12/15-10:16:24.639995 723486a00640 Delete type=3 #972
+2024/12/15-10:16:24.640028 723486a00640 Delete type=0 #974
+2024/12/15-11:24:42.403422 72347d600640 Level-0 table #980: started
+2024/12/15-11:24:42.434000 72347d600640 Level-0 table #980: 1233200 bytes OK
+2024/12/15-11:24:42.436115 72347d600640 Delete type=0 #978
+2024/12/15-11:28:47.157634 72347d600640 Level-0 table #982: started
+2024/12/15-11:28:47.161341 72347d600640 Level-0 table #982: 55240 bytes OK
+2024/12/15-11:28:47.163341 72347d600640 Delete type=0 #979
+2024/12/15-11:28:47.173985 72347d600640 Manual compaction at level-0 from '!settings!0IOzByR4foHoIyzR' @ 72057594037927935 : 1 .. '!settings!zi4Ny8RYb9pSyHRB' @ 0 : 0; will stop at '!settings!rvy9QbpI4vJxzt1u' @ 155772 : 1
+2024/12/15-11:28:47.173992 72347d600640 Compacting 1@0 + 1@1 files
+2024/12/15-11:28:47.178205 72347d600640 Generated table #983@0: 5 keys, 5024 bytes
+2024/12/15-11:28:47.178215 72347d600640 Compacted 1@0 + 1@1 files => 5024 bytes
+2024/12/15-11:28:47.179775 72347d600640 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/12/15-11:28:47.179819 72347d600640 Delete type=2 #982
+2024/12/15-11:28:47.179922 72347d600640 Delete type=2 #980
+2024/12/15-11:28:47.180207 72347d600640 Manual compaction at level-0 from '!settings!rvy9QbpI4vJxzt1u' @ 155772 : 1 .. '!settings!zi4Ny8RYb9pSyHRB' @ 0 : 0; will stop at (end)
+2024/12/15-11:28:47.184931 72347d600640 Manual compaction at level-1 from '!settings!0IOzByR4foHoIyzR' @ 72057594037927935 : 1 .. '!settings!zi4Ny8RYb9pSyHRB' @ 0 : 0; will stop at '!settings!xSYD3VyH1ok2GCaT' @ 151780 : 1
+2024/12/15-11:28:47.184936 72347d600640 Compacting 1@1 + 1@2 files
+2024/12/15-11:28:47.201409 72347d600640 Generated table #984@1: 141 keys, 554772 bytes
+2024/12/15-11:28:47.201419 72347d600640 Compacted 1@1 + 1@2 files => 554772 bytes
+2024/12/15-11:28:47.202791 72347d600640 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/12/15-11:28:47.202886 72347d600640 Delete type=2 #976
+2024/12/15-11:28:47.202986 72347d600640 Delete type=2 #983
+2024/12/15-11:28:47.236696 72347d600640 Manual compaction at level-1 from '!settings!xSYD3VyH1ok2GCaT' @ 151780 : 1 .. '!settings!zi4Ny8RYb9pSyHRB' @ 0 : 0; will stop at (end)
