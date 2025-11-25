@@ -1,7 +1,8 @@
-2024/12/17-20:01:28.389 3fec Recovering log #1215
-2024/12/17-20:01:28.394 3fec Delete type=2 #302
-2024/12/17-20:01:28.394 3fec Delete type=2 #303
-2024/12/17-20:01:28.395 3fec Delete type=0 #306
-2024/12/17-20:01:28.395 3fec Delete type=0 #1215
-2024/12/17-20:01:28.395 3fec Delete type=3 #304
-2024/12/17-20:01:28.395 3fec Delete type=3 #1213
+2025/11/25-18:44:09.762784 727b82000640 Recovering log #1529
+2025/11/25-18:44:09.767998 727b82000640 Delete type=0 #1529
+2025/11/25-18:44:09.768021 727b82000640 Delete type=3 #1527
+2025/11/25-21:36:22.739751 727b7b600640 Level-0 table #1534: started
+2025/11/25-21:36:22.740307 727b7b600640 Level-0 table #1534: 0 bytes OK
+2025/11/25-21:36:22.743112 727b7b600640 Delete type=0 #1532
+2025/11/25-21:36:22.743211 727b7b600640 Manual compaction at level-0 from '!fog!0ECtJAlhKVfN5j4O' @ 72057594037927935 : 1 .. '!fog!ziOCYmTLMa0536lA' @ 0 : 0; will stop at (end)
+2025/11/25-21:36:22.757526 727b7b600640 Manual compaction at level-1 from '!fog!0ECtJAlhKVfN5j4O' @ 72057594037927935 : 1 .. '!fog!ziOCYmTLMa0536lA' @ 0 : 0; will stop at (end)

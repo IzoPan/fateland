@@ -3,12 +3,13 @@
   "id": "fateland",
   "system": "dnd5e",
   "joinTheme": "default",
-  "coreVersion": "11.315",
+  "coreVersion": "12.343",
   "compatibility": {
-    "minimum": "11",
-    "verified": "11"
+    "minimum": "12",
+    "verified": "12.343"
   },
-  "systemVersion": "3.3.1",
-  "lastPlayed": "Tue Dec 17 2024 20:01:28 GMT+0100 (hora estándar de Europa central)",
-  "playtime": 34
+  "systemVersion": "4.3.9",
+  "lastPlayed": "Tue Nov 25 2025 21:36:22 GMT+0000 (Coordinated Universal Time)",
+  "playtime": 9032916,
+  "background": "Fatelanfgif.gif"
 }
