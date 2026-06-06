@@ -1,8 +1,5 @@
-2025/11/25-18:24:06.462724 727b82000640 Recovering log #947
-2025/11/25-18:24:06.468122 727b82000640 Delete type=0 #947
-2025/11/25-18:24:06.468148 727b82000640 Delete type=3 #945
-2025/11/25-18:44:05.685285 727b7b600640 Level-0 table #952: started
-2025/11/25-18:44:05.685685 727b7b600640 Level-0 table #952: 0 bytes OK
-2025/11/25-18:44:05.687794 727b7b600640 Delete type=0 #950
-2025/11/25-18:44:05.691357 727b7b600640 Manual compaction at level-0 from '!combats!Ptwxcfg8NiqeNnY5' @ 72057594037927935 : 1 .. '!combats!Ptwxcfg8NiqeNnY5' @ 0 : 0; will stop at (end)
-2025/11/25-18:44:05.691382 727b7b600640 Manual compaction at level-1 from '!combats!Ptwxcfg8NiqeNnY5' @ 72057594037927935 : 1 .. '!combats!Ptwxcfg8NiqeNnY5' @ 0 : 0; will stop at (end)
+2026/04/16-17:24:07.263035 77ad473ff640 Recovering log #1011
+2026/04/16-17:24:07.263437 77ad473ff640 Level-0 table #1013: started
+2026/04/16-17:24:07.267095 77ad473ff640 Level-0 table #1013: 520 bytes OK
+2026/04/16-17:24:07.272849 77ad473ff640 Delete type=0 #1011
+2026/04/16-17:24:07.272886 77ad473ff640 Delete type=3 #1010
